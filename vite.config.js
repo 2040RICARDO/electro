@@ -10,4 +10,5 @@ export default defineConfig({
         }),
         react(),
     ],
+    base: '/build/', // Ajusta esto según sea necesario
 });
